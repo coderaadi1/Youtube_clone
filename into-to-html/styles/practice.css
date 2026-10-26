@@ -1,0 +1,14 @@
+.heading{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+.order{
+    color: grey;
+    text-align: center;
+}
+
+.underline{
+    text-decoration: underline;
+}

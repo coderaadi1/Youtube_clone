@@ -1,0 +1,76 @@
+.subscribe-button{
+        background-color: rgb(200, 0, 0);
+        color: white;
+        border:none;
+        /* This is CSS box model which includes how much space elements take */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 8px;
+        margin-left: 8px;
+        transition: opacity 1s;
+        vertical-align: top;
+    }
+
+/* When we hover on the button this style appear otherwise the aobve will appear */
+    .subscribe-button:hover{
+        opacity: 0.7;
+    }
+
+    /* When we click on a button the follwoing style appear */
+    .subscribe-button:active{
+        opacity: 0.5;
+    }
+
+    .join-button{
+        background-color: white;
+        color: rgb(70, 180, 221);
+        border-color: rgb(70, 180, 221);
+        border-style: solid;
+        border-width: 1px;
+        cursor: pointer;
+        transition: background-color 1s,
+          color 1s;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        vertical-align: top;
+
+    }
+
+    .join-button:hover{
+        background-color:rgb(70, 180, 221) ;
+        color: white;
+    }
+
+    .join-button:active{
+        opacity: 0.5;
+    }
+
+    .tweet-button{
+        background-color: rgb(0, 153, 235);
+        color:white;
+        border-radius: 20px;
+        border: none;
+        font-weight: bold;
+        font-size: 15px;
+        cursor: pointer;
+        transition: box-shadow 0.5s;
+        vertical-align: top;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        margin-left: 8px;
+        
+    }
+
+    .tweet-button:hover{
+        box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+
+    }

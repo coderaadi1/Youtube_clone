@@ -1,0 +1,32 @@
+p{
+    font-family: Arial;
+    margin: 0;
+  
+}
+.image{
+    height: 70px;
+    width: 70px;
+    object-fit: cover;
+    object-position: left;
+    border-radius: 60px;
+    display: inline-block;
+}
+.info{
+    display: inline-block;
+    margin-left: 20px;
+}
+.oliver{
+    font-weight: bold;
+}
+.button{
+    margin-left: auto;
+    background: #5b9bec;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}

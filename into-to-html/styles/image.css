@@ -1,0 +1,36 @@
+.image{
+    height: auto;
+    width: 250px;
+    object-fit: cover;
+}
+.box{
+    width: 250px;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.23);
+    display: inline-block;
+}
+
+.name{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+
+.friend{
+    margin-left: 8px;
+    color: grey;
+    margin-top: 0;
+}
+button{
+    margin-left: 8px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 157, 255);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+
+}

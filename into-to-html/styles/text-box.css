@@ -1,0 +1,32 @@
+.label {
+    color: grey;
+    margin-bottom: 8px;
+}
+
+.text-box{
+    font-size: 16px;
+    width: 350px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: grey;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.disclaimer{
+    color: grey;
+    font-size: 15px;
+}
+
+.join-button{
+    background-color: rgb(47, 143, 252);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 120px;
+    padding-right: 120px;
+    border: none;
+    border-radius: 20px;
+}

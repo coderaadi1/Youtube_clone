@@ -1,0 +1,20 @@
+.box{
+    background-color: black;
+    width: 340px;
+    border-width: 2px;
+    border-style: solid;
+    padding-bottom: 10pxpx ;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.heading{
+    color: white;
+    font-family: Arial;
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.desc{
+    margin-top: 0;
+    color: rgb(179, 169, 169);
+}
